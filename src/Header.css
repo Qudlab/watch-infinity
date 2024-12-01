@@ -1,0 +1,23 @@
+.header {
+    background-color: #000000; /* Black */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+    border-bottom: 2px solid #ffd700; /* Gold */
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    color: #f8f5f2; /* Light gold */
+  }
+  

@@ -1,0 +1,36 @@
+.cart, .checkout {
+    padding: 30px;
+  }
+  
+  .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart li {
+    display: flex;
+    align-items: center;
+    border: 2px solid #ffd700; /* Gold */
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
+  .cart img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .cart h3, .cart p {
+    margin: 0;
+  }
+  
+  .checkout form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .checkout textarea {
+    resize: none;
+  }
+  
